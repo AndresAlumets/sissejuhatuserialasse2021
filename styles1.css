@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+table{
+    background-color: lightseagreen; 
+    border-radius: 10px; 
+    border-width: 5px;
+    border-color: black;
+}
+header{
+    color: crimson; 
+    font-weight: 1000;
+}
+medalt{
+    color: silver;
+}
+medal{
+    color: gold
+}
+medalo{
+    color: gold
+}
